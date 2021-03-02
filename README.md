@@ -1,4 +1,5 @@
 ### HEYO!
+<center>Centered text</center>
 
 - I'm a web developer & designer from Philly.
 - I'm currently working on collaborative design tools and new ways to experiment with type.
