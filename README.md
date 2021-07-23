@@ -1,5 +1,5 @@
 ### HEYO!
-🥚 I'm a web developer & designer from Philly.
+🥚 I'm a web developer & designer based in NYC.
 
 🐬 I'm currently working on collaborative design tools and new ways to experiment with type.
 
