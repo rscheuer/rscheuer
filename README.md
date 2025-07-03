@@ -1,5 +1,5 @@
 ### Ryan Scheuer
-🥚 Design designer based in NYC.
+🥚 Design engineer based in NYC.
 
 🐬 Currently working on collaborative design tools and engineering type.
 
