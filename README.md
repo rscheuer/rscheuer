@@ -1,7 +1,7 @@
-### HEYO!
-🥚 I'm a web developer & designer based in NYC.
+### Ryan Scheuer
+🥚 Design designer based in NYC.
 
-🐬 I'm currently working on collaborative design tools and new ways to experiment with type.
+🐬 Currently working on collaborative design tools and engineering type.
 
 <!--
 **rscheuer/rscheuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
